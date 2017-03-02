@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/pitaj/multi-progress",
   "dependencies": {
-    "progress": "^1.1.8"
+    "progress": "visionmedia/node-progress#191256e02ec20c89b2e2834e25d17c3a7257d18a"
   }
 }
